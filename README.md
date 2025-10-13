@@ -15,4 +15,5 @@
 
 ## Mooc courses etc.
 
-
+### [Version Control: Git](https://opiskelijanopas.tuni.fi/en/tampere-university/curriculum/course-units/tut-cu-g-52196?year=2025)
+https://github.com/hdahlber/git-course
