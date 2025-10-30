@@ -9,8 +9,17 @@
 
 ### [Datorstödd affärsanalys / Business Intelligence](https://studiehandboken.abo.fi/sv/kurs/IS00CR18/30621?period=2024-2027)
 
+### [Investeringsplanering](https://studiehandboken.abo.fi/sv/kurs/457103.0/1493?period=2024-2027)
+
+### [Företagsanalys och beslutsfattande](https://studiehandboken.abo.fi/sv/kurs/EM00CK24/23627?period=2024-2027)
+
+### 
 
 ## Computer engineering courses
+
+### [GPU programmering](https://studiehandboken.abo.fi/sv/kurs/IT00CG19/19162?period=2024-2027)
+
+### [Web Technologies](https://studiehandboken.abo.fi/sv/kurs/IT00CD40/17066?period=2024-2027)
 
 
 ## Mooc courses etc.
