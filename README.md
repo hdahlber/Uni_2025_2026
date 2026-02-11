@@ -24,6 +24,8 @@ https://github.com/MirruK/GPU-programming-2025
 
 ### [Web Technologies](https://studiehandboken.abo.fi/sv/kurs/IT00CD40/17066?period=2024-2027)
 
+### [Data-driven Computing Architectures](https://studiehandboken.abo.fi/sv/kurs/IT00CS33/31386?period=2024-2027)
+
 ## Mooc courses etc.
 
 ### [Version Control: Git](https://opiskelijanopas.tuni.fi/en/tampere-university/curriculum/course-units/tut-cu-g-52196?year=2025)
