@@ -14,6 +14,8 @@
 
 ### [Företagsanalys och beslutsfattande](https://studiehandboken.abo.fi/sv/kurs/EM00CK24/23627?period=2024-2027)
 
+### [Företagsfinansiering](https://studiehandboken.abo.fi/sv/kurs/310061.0/1024?period=2024-2027)
+
 ###
 
 ## Computer engineering courses
