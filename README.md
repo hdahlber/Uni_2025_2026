@@ -28,6 +28,8 @@ https://github.com/MirruK/GPU-programming-2025
 
 ### [Data-driven Computing Architectures](https://studiehandboken.abo.fi/sv/kurs/IT00CS33/31386?period=2024-2027)
 
+https://github.com/MirruK/ddca2026-turku-13-mirror
+
 ## Mooc courses etc.
 
 ### [Version Control: Git](https://opiskelijanopas.tuni.fi/en/tampere-university/curriculum/course-units/tut-cu-g-52196?year=2025)
